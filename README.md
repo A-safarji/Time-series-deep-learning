@@ -2,8 +2,7 @@
 
 * Univariate Time Series
 
-Predicting stock price using historical data of a company using Neural networks.
-Developing Stacked LSTM, BiLSTM models, and NeuralProphet for multi-step forecasting of stock price.
+Predicting stock price using historical data of a company using Neural networks for multi-step forecasting of stock price.
 
 # General info
 This project is; to implement deep learning algorithms two sequential models of recurrent neural networks (RNNs) such as stacked LSTM, Bidirectional LSTM, and NeuralProphet built with PyTorch to predict stock prices using time series forecasting.
