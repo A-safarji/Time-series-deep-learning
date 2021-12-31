@@ -20,9 +20,7 @@ This project is; to implement deep learning algorithms two sequential models of 
 
 # Visualising Stacked LSTM Result: 
 
-
-<img width="747" alt="Screen Shot 2021-12-28 at 5 07 04 PM" src="https://user-images.githubusercontent.com/20365333/147840153-3067fe61-d9aa-4618-a2b3-3ea089a3261a.png">
-
+<img width="1168" alt="Screen Shot 2021-12-30 at 12 55 00 AM" src="https://user-images.githubusercontent.com/20365333/147840307-fc424501-ddf3-4ca0-a58f-e5479ad6bb84.png">
 
 
 
