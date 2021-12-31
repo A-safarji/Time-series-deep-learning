@@ -2,7 +2,8 @@
 
 * Univariate Time Series
 
-Developing LSTM, BiLSTM models, and NeuralProphet for multi-step forecasting of stock price
+Predicting stock price using historical data of a company using Neural networks.
+Developing LSTM, BiLSTM models, and NeuralProphet for multi-step forecasting of stock price.
 
 
 
