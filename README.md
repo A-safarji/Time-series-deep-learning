@@ -29,3 +29,8 @@ This project is; to implement deep learning algorithms two sequential models of 
 ------------
 # Disclaimer
 Attempts have been made to predict stock prices using time series analysis algorithms, but they are not yet available for betting in the real market. This is just a tutorial and implementation of deep learning models to forecast stock. Therefore, it is not intended to instruct people to buy stock from this repo.
+
+## Contact
+
+
+[Stock Price Prediction Using Deep Learning](https://github.com/A-safarji) - feel free to contact!
