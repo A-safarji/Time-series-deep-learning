@@ -39,7 +39,7 @@ Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and
 
 
 # Final thoughts
-Our analysis of using three deep learning algorithms shows that they remain a worthy investment for the future. A qualified investor, on the other hand, should perform both external and internal business research before making an investment decision in order to obtain a full picture of the company's potential value.
+The analysis of using three deep learning algorithms shows that they remain a worthy investment for the future. A qualified investor, on the other hand, should perform both external and internal business research before making an investment decision in order to obtain a full picture of the company's potential value.
 
 ------------
 # Disclaimer
