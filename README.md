@@ -18,7 +18,9 @@ This project is; to implement deep learning algorithms two sequential models of 
 * [Conclusion](#license)
 * [Contributing](#contributing)
  
-
+# Stock Data
+Data are obtained from 2010–01–04 to 2021–11–02 for Apple Inc (AAPL) and exported directly from Yahoo finance. Stock price history will be for the past 11 years (including the Covid-19 period) since we use neural networks, and the more data, the better model training.
+* [more about data descrption from here](https://github.com/A-safarji/Time-series-deep-learning/tree/main/Date)
 
 # Visualising Stacked LSTM Result: 
 
