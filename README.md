@@ -27,6 +27,8 @@ Data are obtained from 2010–01–04 to 2021–11–02 for Apple Inc (AAPL) and
 <img width="1168" alt="Screen Shot 2021-12-30 at 12 55 00 AM" src="https://user-images.githubusercontent.com/20365333/147840307-fc424501-ddf3-4ca0-a58f-e5479ad6bb84.png">
 
 
+# Final thoughts
+Our analysis of using three deep learning algorithms shows that they remain a worthy investment for the future. A qualified investor, on the other hand, should perform both external and internal business research before making an investment decision in order to obtain a full picture of the company's potential value.
 
 ------------
 # Disclaimer
