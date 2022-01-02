@@ -22,10 +22,16 @@ This project is; to implement deep learning algorithms two sequential models of 
 Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and 29 days) for Apple Inc (AAPL) and exported directly from Yahoo finance. Stock price history will be for the past 11 years (including the Covid-19 period). You can use Yahoo Finance API to grab stock data as well. 
 * [more about data descrption from here](https://github.com/A-safarji/Time-series-deep-learning/tree/main/Date)
 
-# Visualising Stacked LSTM Result
-* As an example: 
+# Visualising Results 
+
+* Stacked LSTM 
 
 <img width="1168" alt="Screen Shot 2021-12-30 at 12 55 00 AM" src="https://user-images.githubusercontent.com/20365333/147840307-fc424501-ddf3-4ca0-a58f-e5479ad6bb84.png">
+
+* NeuralProphet
+
+<img width="735" alt="Screen Shot 2022-01-02 at 9 10 23 PM" src="https://user-images.githubusercontent.com/20365333/147885217-e0d2dfd0-7ca2-478f-b554-67e165deaad6.png">
+
 
 
 # Final thoughts
