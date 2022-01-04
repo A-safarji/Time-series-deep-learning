@@ -50,12 +50,13 @@ Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and
 
 
 # Technologies
+* [Colab](https://colab.research.google.com/notebooks/)
 * [numpy](http://www.numpy.org/)  
 * [pandas](https://pandas.pydata.org/)  
 * [sklearn](http://scikit-learn.org/stable/)  
 * [scipy](https://www.scipy.org/)  
 * [matplotlib](https://matplotlib.org/)  
-* [tensorflow-gpu](https://www.tensorflow.org/)  
+* [tensorflow](https://www.tensorflow.org/)  
 * [keras](https://keras.io/)  
 * [Plotly](https://plotly-r.com/)
 * [NeuralProphet](https://neuralprophet.com/html/contents.html)
