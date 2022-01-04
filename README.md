@@ -49,6 +49,19 @@ Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and
 <img width="735" alt="Screen Shot 2022-01-02 at 9 10 23 PM" src="https://user-images.githubusercontent.com/20365333/147885217-e0d2dfd0-7ca2-478f-b554-67e165deaad6.png">
 
 
+# Technologies
+* [numpy](http://www.numpy.org/)  
+* [pandas](https://pandas.pydata.org/)  
+* [sklearn](http://scikit-learn.org/stable/)  
+* [scipy](https://www.scipy.org/)  
+* [matplotlib](https://matplotlib.org/)  
+* [tensorflow-gpu](https://www.tensorflow.org/)  
+* [keras](https://keras.io/)  
+* [Plotly](https://plotly-r.com/)
+* [NeuralProphet](https://neuralprophet.com/html/contents.html)
+* [h5py](http://docs.h5py.org/en/latest/build.html)
+* [Facebook Prophet](https://pypi.org/project/prophet/)added to the project
+
 
 # Final thoughts
 The analysis of using three deep learning algorithms shows that they remain a worthy investment for the future. A qualified investor, on the other hand, should perform both external and internal business research before making an investment decision in order to obtain a full picture of the company's potential value.
