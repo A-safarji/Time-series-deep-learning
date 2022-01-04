@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+(https://neuralprophet.slack.com/join/shared_invite/zt-sgme2rw3-3dCH3YJ_wgg01IXHoYaeCg#/shared-invite/email)
 
 
 * Univariate Time Series
