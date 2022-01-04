@@ -60,7 +60,7 @@ Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and
 * [Plotly](https://plotly-r.com/)
 * [NeuralProphet](https://neuralprophet.com/html/contents.html)
 * [h5py](http://docs.h5py.org/en/latest/build.html)
-* [Facebook Prophet](https://pypi.org/project/prophet/)added to the project
+* [Facebook Prophet](https://pypi.org/project/prophet/) added to the project
 
 
 # Final thoughts
