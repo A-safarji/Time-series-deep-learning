@@ -20,14 +20,13 @@ This project is; to implement deep learning algorithms two sequential models of 
 
 ## Table of contents
 * [What is Time Series?](#project-info)
-* [What is LSTM?](#questions)
-* [What is Bidirectional LSTM?](#why-riddet-topic-modeling)
-* [What is NeuralProphet?](#tools)
-* [Started With the Stock Data](#screenshots)
-* [Model Implementation Phase](#status)
-* [Models Train & validation Loss](#contact)
-* [Conclusion](#license)
-* [Contributing](#contributing)
+* [What is LSTM?](#)
+* [What is Bidirectional LSTM?](#)
+* [What is NeuralProphet?](#)
+* [Started With the Stock Data](#)
+* [Model Implementation Phase](#)
+* [Models Train & validation Loss](#)
+* [Conclusion](#)
  
 # Stock Data
 Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and 29 days) for Apple Inc (AAPL) and exported directly from Yahoo finance. Stock price history will be for the past 11 years (including the Covid-19 period). 
