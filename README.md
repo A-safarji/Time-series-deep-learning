@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue?logo=python)](https://www.python.org/)
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![medium]()](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )
 
 
