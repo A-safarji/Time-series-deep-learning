@@ -70,8 +70,9 @@ The analysis of using three deep learning algorithms shows that they remain a wo
 # Disclaimer
 Attempts have been made to predict stock prices using time series analysis algorithms, but they are not yet available for betting in the real market. This is just a tutorial and implementation of deep learning models to forecast stock. Therefore, it is not intended to instruct people to buy stock from this repo.
 
-# Contributing
-[Check the repo doc for how to contribute](https://github.com/A-safarji/Time-series-deep-learning/blob/main/CONTRIBUTING.md)
+## Contributing
+>You can check out the full contribution document [here](https://github.com/A-safarji/Time-series-deep-learning/blob/main/CONTRIBUTING.md)
+- Fork the Repository [here](https://github.com/A-safarji/Time-series-deep-learning.git)
 
 ## Contact
 
