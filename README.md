@@ -1,8 +1,10 @@
 # Stock Price Prediction Using Deep Learning 
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
-[![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue?logo=python)](https://www.python.org/)
+[![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+https://badges.aleen42.com/src/medium.svg
+
 
 * Univariate Time Series
 
