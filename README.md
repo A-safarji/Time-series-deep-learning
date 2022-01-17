@@ -27,6 +27,8 @@ This project is; to implement deep learning algorithms two sequential models of 
 * [Model Implementation Phase](#)
 * [Models Train & validation Loss](#)
 * [Conclusion](#)
+
+This project was created for our article: Univariate Time Series With Stacked LSTM, BiLSTM, and NeuralProphet. [From here](https://pub.towardsai.net/univariate-time-series-with-stacked-lstm-bilstm-and-neuralprophet-c8d6a11a9665)
  
 # Stock Data
 Data are obtained from 2010–01–04 to 2021–11–02 (11 years, 9 months, and 29 days) for Apple Inc (AAPL) and exported directly from Yahoo finance. Stock price history will be for the past 11 years (including the Covid-19 period). 
