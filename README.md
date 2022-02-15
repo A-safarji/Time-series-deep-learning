@@ -1,4 +1,4 @@
-# Stock Price Prediction Using Deep Learning 
+# Stock Price Prediction Using Time Series (Deep Learning)
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue?logo=python)](https://www.python.org/)
